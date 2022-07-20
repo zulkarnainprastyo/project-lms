@@ -18,3 +18,5 @@ class LMS ini digunakan untuk mencatat buku-buku perpustakaan. LMS ini memiliki 
 Tools yang digunakan pada 'project' ini adalah 'class', 'function, 'file handling', 'data structure', 'control structure', 'lopping concept', dll. Sistem ini memungkinkan anda untuk melihat list of books, dan memasukkan books ID yang dikehendaki (list of books terdiri dari 19 buku), kemudian masukan nama anda, jika sudah memasukan nama maka akan tersimpan dalam sistem dengan sukses (Books Issued Succesfully !!!). Jika anda ingin mengembalikan buku, tekan "Press key: r", selanjutnya "Enter books ID". Jika menurut anda penggunaan aplikasi sudah selesai "Press key: q".
 
 ## Features & Explanation
+* 1. Display Books
+* 
