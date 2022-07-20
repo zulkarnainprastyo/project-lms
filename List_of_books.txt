@@ -1,0 +1,20 @@
+Head First Statistics: A Brain-Friendly Guide
+Practical Statistics for Data Scientists
+Introduction to Probability
+Introduction to Machine Learning with Python: A Guide for Data Scientists
+Python Machine Learning By Example
+Pattern recognition and machine learning
+Python for data analysis
+Naked statistics
+Data Science and big data analytics
+Business analytics – the science of data-driven decision making
+Inflection point
+Storytelling with Data
+Big Data – A revolution
+The data science handbook
+Data mining techniques
+Thinking with data
+Generative Deep learning
+Data Science for business
+Designing data-intensive applications105
+Clean Code
