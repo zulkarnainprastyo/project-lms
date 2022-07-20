@@ -35,6 +35,7 @@ Tools yang digunakan pada 'project' ini adalah 'class', 'function, 'file handlin
 * Buku secara otomatis dikembalikan dengan menekan "Press key: r"
 * Jika anda telah menyelesaikannya, maka buku akan update pada tampilan daftar buku.
 
-
+## Authors
+Zulkarnain Prastyo (https://www.linkedin.com/in/zulkarnain-prastyo/)
 
 
